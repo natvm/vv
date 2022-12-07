@@ -14,7 +14,3 @@ Install
 3. If you prefer, open file and change the path to icon image or sound file.
 4. To autostart the file every boot use gnome-session-properties.
 
-Links
-=====
-
-This program is a project from Vida Amarilla http://www.vidaamarilla.com/2014/05/reduzca-la-fatiga-visual-con-vv-para.html
